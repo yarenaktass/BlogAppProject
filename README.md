@@ -34,7 +34,7 @@ In this project, I created a book blog site. I implemented user registration and
 ![Screenshot 2024-07-25 222920](https://github.com/user-attachments/assets/1b4000ea-fbda-4646-a5b3-db7d5fcaf686)
 
 
-![Screenshot 2024-07-25 223218](https://github.com/user-attachments/assets/c69d958f-0ff5-4dfa-8495-9cf3e6ce474e)
+![Screenshot 2024-07-25 223449](https://github.com/user-attachments/assets/d745c5a1-069b-4651-9f87-f1617e844de5)
 
 
 ![Screenshot 2024-07-25 223218](https://github.com/user-attachments/assets/05869aee-8345-49b5-95e2-268ee96d4128)
