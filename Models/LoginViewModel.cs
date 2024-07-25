@@ -11,9 +11,9 @@ namespace BlogAppProject.Models
         public string? Email { get; set; }
 
         [Required]
-        [StringLength(10, ErrorMessage = "{0} alanı en az {2} an çok {1} karakter uzunluğunda olmalıdır.", MinimumLength = 6)]
+        [StringLength(10, ErrorMessage = "{0} field must be at least {2} and at most {1} characters long.", MinimumLength = 6)]
         [DataType(DataType.Password)]
-        [Display(Name = "Parola")]
+        [Display(Name = "Password")]
         public string? Password { get; set; }
     }
 }
