@@ -11,20 +11,20 @@
 
 ### `Screenshots of the project`
 
-![Screenshot 2024-07-25 202803](https://github.com/user-attachments/assets/0771cf5e-84c5-4631-b16b-da7242b331a6)
+![Screenshot 2024-07-25 202803](https://github.com/user-attachments/assets/1e791895-df66-42b3-a1b4-da8e65a752a7)
 
-![Screenshot 2024-07-25 202845](https://github.com/user-attachments/assets/2011303c-7947-4b5f-ba19-079d0398ac2f)
+![Screenshot 2024-07-25 202845](https://github.com/user-attachments/assets/8a271837-4804-418c-882a-b2e2f55cf324)
 
-![Screenshot 2024-07-25 202852](https://github.com/user-attachments/assets/cb0978b6-edf6-42db-9faa-bc5ebe02d1a2)
+![Screenshot 2024-07-25 202852](https://github.com/user-attachments/assets/921f2b15-2c17-4aa2-bbea-4fd19e806437)
 
-![Screenshot 2024-07-25 202908](https://github.com/user-attachments/assets/70a83e34-6e05-437f-a666-f8fe4578356f)
+![Screenshot 2024-07-25 202908](https://github.com/user-attachments/assets/96284a91-56bd-4024-a337-b22efe7a1725)
 
-![Screenshot 2024-07-25 202919](https://github.com/user-attachments/assets/a558687c-6905-4ae6-9dce-60eefb6a4231)
+![Screenshot 2024-07-25 203016](https://github.com/user-attachments/assets/2ecae7ec-763c-40e8-958f-778057dd4f96)
 
-![Screenshot 2024-07-25 202959](https://github.com/user-attachments/assets/45f1c03d-7d8e-4022-892f-6180f4e488f0)
+![Screenshot 2024-07-25 215953](https://github.com/user-attachments/assets/d4e0559c-21b3-43a7-ac66-34edfa0193ba)
 
-![Screenshot 2024-07-25 203016](https://github.com/user-attachments/assets/9cc3e493-3cd2-418d-833f-85c89ccdc7c1)
+![Screenshot 2024-07-25 220326](https://github.com/user-attachments/assets/f2fc0a2b-fc83-4cab-8dc1-35d76ac756c4)
 
-![Screenshot 2024-07-25 214851](https://github.com/user-attachments/assets/67612db9-47bf-45ea-9558-59238ab1d002)
+![Screenshot 2024-07-25 214835](https://github.com/user-attachments/assets/7cb758c9-2e79-45ca-942a-094bd7ac1a56)
 
-![Screenshot 2024-07-25 214835](https://github.com/user-attachments/assets/4ca8cda3-2fa6-451f-9eb4-2c1d1404d885)
+![Screenshot 2024-07-25 214851](https://github.com/user-attachments/assets/40047334-2f25-42e8-841b-a30223e67092)
