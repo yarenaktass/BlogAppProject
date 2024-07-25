@@ -11,11 +11,19 @@ In this project, I created a book blog site. I implemented user registration and
 ### `Screenshots of the project`
 
 ![Screenshot 2024-07-25 221125](https://github.com/user-attachments/assets/32b3da53-c683-442e-bc8f-4711e2175180)
+
 ![Screenshot 2024-07-25 221210](https://github.com/user-attachments/assets/84fe4fe3-b547-4885-b221-be3b80d366d2)
+
 ![Screenshot 2024-07-25 221225](https://github.com/user-attachments/assets/be35138c-bca2-4786-827b-b59db9ffda47)
+
 ![Screenshot 2024-07-25 221237](https://github.com/user-attachments/assets/cfd898e6-70b6-4369-973c-b1f15e9f9812)
+
 ![Screenshot 2024-07-25 221259](https://github.com/user-attachments/assets/6b60003e-daa4-4560-8f3d-45e1ce80b890)
+
 ![Screenshot 2024-07-25 221316](https://github.com/user-attachments/assets/42c9dbf4-d0b5-4357-ab2c-75f277417070)
+
 ![Screenshot 2024-07-25 221328](https://github.com/user-attachments/assets/b5423e3e-3607-4efc-be6a-acba14143436)
+
 ![Screenshot 2024-07-25 221339](https://github.com/user-attachments/assets/5ccc81d4-28ea-4168-96c0-a04c1748467e)
+
 ![Screenshot 2024-07-25 221439](https://github.com/user-attachments/assets/ea6d5548-7f65-439f-af69-74b212ceb7c2)
