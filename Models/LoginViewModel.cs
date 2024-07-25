@@ -7,7 +7,7 @@ namespace BlogAppProject.Models
 
         [Required]
         [EmailAddress]
-        [Display(Name = "Eposta")]
+        [Display(Name = "Email")]
         public string? Email { get; set; }
 
         [Required]

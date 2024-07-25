@@ -124,3 +124,4 @@ C:\Users\yaren\OneDrive\Desktop\BlogAppProject\BlogAppProject\obj\Debug\net8.0\r
 C:\Users\yaren\OneDrive\Desktop\BlogAppProject\BlogAppProject\obj\Debug\net8.0\BlogAppProject.pdb
 C:\Users\yaren\OneDrive\Desktop\BlogAppProject\BlogAppProject\obj\Debug\net8.0\BlogAppProject.genruntimeconfig.cache
 C:\Users\yaren\OneDrive\Desktop\BlogAppProject\BlogAppProject\obj\Debug\net8.0\ref\BlogAppProject.dll
+C:\Users\yaren\OneDrive\Desktop\BlogAppProject\BlogAppProject\obj\Debug\net8.0\BlogAppProject.sourcelink.json
