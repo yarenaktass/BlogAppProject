@@ -1,0 +1,62 @@
+@model List<Post>
+
+<div class="row">
+    <div class="col-12">
+        <h2>Post List</h2>
+        <a href="/posts/create" class="btn btn-primary">New Post</a>
+        <hr>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th style="width: 125px;">Image</th>
+                    <th>Title</th>
+                    <th>IsActive</th>
+                    <th style="width: 150px;">Settings</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model){
+                    <tr>
+                        <td><img src="~/img/@item.Image" class="img-fluid" alt=""></td>
+                        <td>@item.Title</td>
+                        <td>@item.IsActive</td>
+                        <td>
+                            <a href="/posts/edit/@item.PostId" class="btn btn-warning">Edit</a>
+                            <button class="btn btn-danger delete-post" data-post-id="@item.PostId">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.delete-post').click(function(event) {
+                event.preventDefault();
+                
+                if (!confirm('Are you sure you want to delete this post?')) {
+                    return;
+                }
+
+                var postId = $(this).data('post-id');
+                var button = $(this);
+
+                $.ajax({
+                    url: '@Url.Action("Delete", "Posts")',
+                    type: 'POST',
+                    data: { id: postId },
+                    success: function() {
+                        button.closest('tr').remove(); 
+                    },
+                    error: function() {
+                        alert('Error deleting post');
+                    }
+                });
+            });
+        });
+    </script>
+}
