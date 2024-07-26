@@ -6,7 +6,7 @@
 In this project, I created a book blog site. I implemented user registration and login functionalities and set up authorization with roles. When you first enter the site, posts are displayed in a list format. Logged-in users can create new posts or edit and delete existing ones. I also provided the option to leave comments on posts. By clicking on a post, you can navigate to a page with detailed information about that post, where users can also write their comments. The features I offer in this project enable users to interact extensively with the blog site and manage the content.
 
 ### `cd BlogAppProject`
-### `dotnet run`
+### `dotnet watch run`
 
 ### `Screenshots of the project`
 
